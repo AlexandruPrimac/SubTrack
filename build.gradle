@@ -31,6 +31,7 @@ dependencies {
     implementation platform('dev.langchain4j:langchain4j-bom:1.13.1')
     implementation 'dev.langchain4j:langchain4j'
     implementation 'dev.langchain4j:langchain4j-anthropic'
+    implementation 'dev.langchain4j:langchain4j-mistral-ai:1.19.0'
 
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
