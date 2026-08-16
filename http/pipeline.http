@@ -1,0 +1,9 @@
+### Fetch from LRCLIB and Translate via Mistral
+POST http://localhost:8080/api/ai/fetch-and-translate
+Content-Type: application/json
+
+{
+  "trackName": "Anima mundi",
+  "artistName": "Flou Rege",
+  "targetLanguage": "English"
+}
