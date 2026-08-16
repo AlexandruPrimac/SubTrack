@@ -16,6 +16,9 @@ bin/
 .settings/
 .sts4-cache
 
+
+
+
 # Environment & Secrets
 .env
 .env.*
